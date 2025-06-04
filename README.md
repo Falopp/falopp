@@ -15,11 +15,10 @@
 ---
 
 ## 🚀 Qué estoy haciendo ahora  
-- Construyendo **pasarelas de pago multi-cadena** y soluciones de comercio cripto  
-- Programando **bots de trading delta-neutral** y trading en grilla  
+- Programando **bots de trading delta-neutral**  
 - Explorando **análisis on-chain** y monitor de wallets en tiempo real  
-- Automatizando cuentas X/Twitter con IA para crecimiento orgánico  
-
+- Automatizando cuentas X/Twitter con IA para crecimiento orgánico
+  
 ---
 
 ## 🛠️ Herramientas favoritas  
