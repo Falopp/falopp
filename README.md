@@ -1,10 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&text=Falopp&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Crypto-Builder%20•%20On-Chain%20Analyst&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Falopp&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3DAEF7&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Falopp+👋;Desarrollador+Full-Stack;Crypto-Builder;Analista+On-Chain;Siempre+construyendo+🚀" alt="Typing SVG" />
 </div>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Falopp?tab=followers">
@@ -22,8 +24,8 @@
 
 ### ✨ **Nota sobre mis repositorios públicos**
 
-*Mis proyectos importantes viven primero en privado durante la fase de I+D.*  
-*Aquí comparto herramientas listas para usar que, cuando maduran, libero al público.*
+*Aquí comparto scripts y mini proyectos útiles.*  
+*Herramientas prácticas listas para usar.*
 
 </div>
 
@@ -32,6 +34,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
+
+<br>
 
 ## 🚀 **Proyectos & Contribuciones Abiertas**
 
@@ -54,26 +58,32 @@
 **🚀 Pro-Hedge-Trading**  
 *Plataforma pro de arbitraje de financiación (Binance ↔ Hyperliquid) con dashboard Streamlit y arquitectura Docker.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
 **💰 P2P_Profit**  
 *Seguimiento avanzado P2P cripto: cálculo automático de P&L (CPP) + reportes Rich/CSV.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rich](https://img.shields.io/badge/Rich-009639?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rich-009639?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
 
 ---
 
 **🎮 CS2_bot_dmarket**  
 *Bot de trading para skins CS2 vía API DMarket: estrategias automáticas, gestión de inventario y KPIs.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
 
 </td>
 <td>
@@ -81,35 +91,43 @@
 **📥 reddit_content_downloader**  
 *Descarga masiva de contenido Reddit con paralelización, filtros avanzados y despliegue Docker/K8s.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AsyncIO-FF6B6B?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
 **📊 data_p2p**  
 *CLI para análisis exhaustivo de transacciones P2P; usa Polars y genera visualizaciones Plotly/Matplotlib.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+</p>
 
 ---
 
 **💹 crypto_screener_dashboard**  
 *Dashboard React/FastAPI para monitorizar precios, funding fees y open interest en tiempo real.*
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
 
 ---
 
 **🔐 guia-wallets-seguras**  
 *Guía completa de seguridad para crear wallets cripto con Tails OS/GrapheneOS y rutas BIP.*
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Docs](https://img.shields.io/badge/Documentation-4285F4?style=flat-square&logo=googledocs&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Documentation-4285F4?style=flat-square&logo=googledocs&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -117,9 +135,13 @@
 
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
+
+<br>
 
 ## 🛠️ **Arsenal Tecnológico**
 
@@ -167,9 +189,13 @@
 
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
+
+<br>
 
 ## 📊 **Métricas GitHub**
 
@@ -182,6 +208,8 @@
   <img src="https://streak-stats.demolab.com?user=Falopp&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=15&background=0D1117&stroke=3DAEF7&ring=3DAEF7&fire=FF6B6B&currStreakLabel=3DAEF7" height="180" alt="GitHub Streak"/>
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falopp&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3DAEF7&text_color=FFFFFF" height="150" alt="Top Languages"/>
 </p>
@@ -191,22 +219,30 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Falopp&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
-### 📊 **Contribución Activity**
+### 📊 **Actividad de Contribución**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Falopp&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DAEF7&line=3DAEF7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </p>
 
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
+
+<br>
 
 <div align="center">
 
 ### 💫 **"Siempre construyendo, siempre aprendiendo"** 🚀
 
+<br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3DAEF7&center=true&vCenter=true&width=600&lines=Building+the+future+of+Web3+%26+DeFi+💎;Crafting+innovative+trading+solutions+📈;Exploring+blockchain+technologies+⛓️;Code+%2B+Crypto+%3D+Innovation+✨" alt="Typing SVG"/>
+
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
 
