@@ -80,8 +80,7 @@ Full-stack developer enfocado en **blockchain** y **DeFi**. Trabajo principalmen
 
 **🏆 Logros 2024-2025:** 377 contribuciones • 14 repositorios públicos • Especialización en Python (93.5%) • Herramientas DeFi y P2P activas
 
----## 🛠️
- Arsenal Tecnológico
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
   <img src="https://img.shields.io/badge/Especialización-Full--Stack%20%2B%20Blockchain-purple?style=for-the-badge&logo=ethereum&logoColor=white" alt="Specialization"/>
