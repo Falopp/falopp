@@ -65,59 +65,36 @@ Creo firmemente en la **descentralización**, la **privacidad** y la **educació
   <img src="https://img.shields.io/badge/Contribuciones-500+-orange?style=for-the-badge&logo=git&logoColor=white" alt="Contributions"/>
 </div>
 
-<br>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Trading & DeFi Solutions
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Trading_Bots-4_Activos-success?style=flat-square&logo=robot&logoColor=white" alt="Trading Bots"/>
-</div>
-
-| 🎯 Proyecto | 📝 Descripción | 🛠️ Stack | ⭐ Status |
-|-------------|----------------|-----------|----------|
-| **[AutoP2P Bot](https://github.com/Falopp/binance-p2p-bot)** | 🥇 Bot inteligente que mantiene posición TOP 1 en Binance P2P con estrategias de sniping competitivo | `Python` `FastAPI` `Playwright` `WebSockets` | 🟢 Activo |
-| **Pro‑Hedge‑Trading** | ⚡ Sistema de arbitraje de funding rates entre Binance y Hyperliquid con dashboard en tiempo real | `Python` `Streamlit` `Docker` `Redis` | 🟢 Activo |
-| **P2P Profit Analyzer** | 📊 Suite completa de análisis P&L con reportes automatizados y tracking de CPP (Cost Per Position) | `Python` `Pandas` `Rich` `SQLite` | 🟢 Activo |
-| **CS2 DMarket Bot** | 🎮 Trading automatizado de skins CS2 con análisis de mercado y gestión de inventario | `Python` `SQLite` `Requests` | 🟡 Mantenimiento |
+### 🏦 Trading & DeFi
+| Proyecto | Stack | Status |
+|----------|-------|--------|
+| **[AutoP2P Bot](https://github.com/Falopp/binance-p2p-bot)** | `Python` `FastAPI` `Playwright` | 🟢 Activo |
+| **Pro‑Hedge‑Trading** | `Python` `Streamlit` `Docker` | 🟢 Activo |
+| **P2P Profit Analyzer** | `Python` `Pandas` `Rich` | 🟢 Activo |
+| **CS2 DMarket Bot** | `Python` `SQLite` | 🟡 Mantenimiento |
+| **DeFi Yield Optimizer** | `Next.js` `TypeScript` | 🔵 Desarrollo |
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Analytics & Infrastructure
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Data_Tools-6_Proyectos-blue?style=flat-square&logo=chart-line&logoColor=white" alt="Data Tools"/>
-</div>
-
-| 🎯 Proyecto | 📝 Descripción | 🛠️ Stack | ⭐ Status |
-|-------------|----------------|-----------|----------|
-| **Crypto Screener Pro** | 🔍 Dashboard avanzado para análisis de precios, funding rates y Open Interest en tiempo real | `React` `TypeScript` `FastAPI` `WebSockets` | 🟢 Activo |
-| **Reddit Content Miner** | 🤖 Herramienta de descarga masiva con filtros ML y deployment escalable en K8s | `Python` `AsyncIO` `Docker` `Kubernetes` | 🟢 Activo |
-| **P2P Data Intelligence** | 📈 CLI potente para análisis exhaustivo de transacciones P2P con visualizaciones interactivas | `Python` `Polars` `Plotly` `Click` | 🟢 Activo |
-| **Blockchain Analytics Suite** | ⛓️ Conjunto de herramientas para análisis on-chain y tracking de transacciones DeFi | `Python` `Web3.py` `PostgreSQL` | 🟡 Beta |
-| **Security Wallet Guide** | 🛡️ Guía completa y actualizada para crear wallets ultra-seguras con Tails/GrapheneOS | `Markdown` `GitHub Pages` | 🟢 Activo |
-| **DeFi Yield Optimizer** | 💰 Calculadora inteligente de yields DeFi con comparación cross-protocol | `Next.js` `TypeScript` `Prisma` | 🔵 Desarrollo |
+### � APnalytics & Tools
+| Proyecto | Stack | Status |
+|----------|-------|--------|
+| **Crypto Screener Pro** | `React` `TypeScript` `FastAPI` | 🟢 Activo |
+| **Reddit Content Miner** | `Python` `AsyncIO` `Docker` | 🟢 Activo |
+| **P2P Data Intelligence** | `Python` `Polars` `Plotly` | 🟢 Activo |
+| **Blockchain Analytics** | `Python` `Web3.py` `PostgreSQL` | 🟡 Beta |
+| **Security Wallet Guide** | `Markdown` `GitHub Pages` | 🟢 Activo |
 
 </td>
 </tr>
 </table>
 
-### 🏆 Logros Destacados
-
-<div align="center">
-
-| 🎖️ Logro | 📊 Métrica | 🗓️ Fecha |
-|----------|------------|----------|
-| **AutoP2P Bot** alcanza 10,000+ transacciones exitosas | 10,000+ trades | 2024 |
-| **Pro-Hedge** genera $50K+ en profits de arbitraje | $50,000+ | 2024 |
-| **Crypto Screener** supera 1,000 usuarios activos | 1,000+ users | 2024 |
-| Contribución a **3 proyectos open-source** DeFi | 3 repos | 2024 |
-
-</div>
+**🏆 Logros 2024:** AutoP2P Bot (10K+ trades) • Pro-Hedge ($50K+ profits) • Crypto Screener (1K+ users) • 3 contribuciones open-source
 
 ---
 
@@ -258,47 +235,6 @@ Creo firmemente en la **descentralización**, la **privacidad** y la **educació
 </p>
 
 > **Nota:** El gráfico incluye mis *contribuciones privadas* gracias a un *PAT* que aloja la instancia en Vercel. Así se refleja TODO mi trabajo, público y privado, sin exponer repos confidenciales.
-
-### 📈 Métricas Detalladas
-
-<div align="center">
-
-| 📊 Métrica | 🔢 Valor | 📅 Período |
-|------------|----------|------------|
-| **Commits Totales** | 1,500+ | 2024 |
-| **Pull Requests** | 200+ | 2024 |
-| **Issues Resueltas** | 150+ | 2024 |
-| **Repositorios Activos** | 20+ | Actual |
-| **Lenguajes Dominados** | 5+ | Actual |
-| **Proyectos Completados** | 15+ | 2024 |
-
-</div>
-
----
-
-## 🎯 Roadmap 2025
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Objetivos_2025-En_Progreso-yellow?style=for-the-badge&logo=target&logoColor=white" alt="2025 Goals"/>
-</div>
-
-### Q1 2025
-- [ ] 🚀 Lanzar **DeFi Yield Optimizer** v1.0
-- [ ] 📚 Completar certificación **Certified Ethereum Developer**
-- [ ] 🤖 Implementar **AI-powered trading signals** en AutoP2P Bot
-- [ ] 🔐 Auditoría de seguridad completa de todos los bots
-
-### Q2 2025
-- [ ] 🌐 Desarrollar **Cross-chain arbitrage bot**
-- [ ] 📱 Crear **mobile app** para monitoreo de portfolios
-- [ ] 🎓 Lanzar **curso online** sobre trading bots
-- [ ] 🤝 Colaborar con **3 proyectos DeFi** open-source
-
-### Q3-Q4 2025
-- [ ] 🏢 Fundar **startup** enfocada en herramientas DeFi
-- [ ] 🌍 Expandir a **mercados internacionales**
-- [ ] 📖 Escribir **libro técnico** sobre automated trading
-- [ ] 🎤 Hablar en **5 conferencias** blockchain
 
 ---
 
