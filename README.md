@@ -10,7 +10,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Falopp&label=VISTAS+PERFIL&color=0e75b6&style=for-the-badge&logo=eye" alt="Profile Views"/>
   <a href="https://github.com/Falopp?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositorios-20+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Repositorios-14-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-Web3%20%26%20DeFi-brightgreen?style=for-the-badge&logo=ethereum&logoColor=white" alt="Focus"/>
 </p>
@@ -60,9 +60,9 @@ Creo firmemente en la **descentralización**, la **privacidad** y la **educació
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Proyectos_Activos-15+-success?style=for-the-badge&logo=github&logoColor=white" alt="Active Projects"/>
-  <img src="https://img.shields.io/badge/Lenguajes-5+-blue?style=for-the-badge&logo=code&logoColor=white" alt="Languages"/>
-  <img src="https://img.shields.io/badge/Contribuciones-500+-orange?style=for-the-badge&logo=git&logoColor=white" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Proyectos_Activos-14-success?style=for-the-badge&logo=github&logoColor=white" alt="Active Projects"/>
+  <img src="https://img.shields.io/badge/Python_Dominante-93%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Contribuciones-377-orange?style=for-the-badge&logo=git&logoColor=white" alt="Contributions"/>
 </div>
 
 <br>
@@ -75,11 +75,11 @@ Creo firmemente en la **descentralización**, la **privacidad** y la **educació
 
 | Proyecto | Stack | Status |
 |----------|-------|--------|
-| **[AutoP2P Bot](https://github.com/Falopp/binance-p2p-bot)** | `Python` `FastAPI` `Playwright` | 🟢 Activo |
-| **Pro‑Hedge‑Trading** | `Python` `Streamlit` `Docker` | 🟢 Activo |
-| **P2P Profit Analyzer** | `Python` `Pandas` `Rich` | 🟢 Activo |
-| **CS2 DMarket Bot** | `Python` `SQLite` | 🟡 Mantenimiento |
-| **DeFi Yield Optimizer** | `Next.js` `TypeScript` | 🔵 Desarrollo |
+| **[binance-p2p-bot](https://github.com/Falopp/binance-p2p-bot)** | `Python` `Playwright` | 🟢 Activo |
+| **[Pro-Hedge-Trading](https://github.com/Falopp/Pro-Hedge-Trading)** | `Python` `Docker` `Shell` | 🟢 Activo |
+| **[P2P_Profit](https://github.com/Falopp/P2P_Profit)** | `Python` `Rich` `CSV` | 🟢 Activo |
+| **[CS2_bot_dmarket](https://github.com/Falopp/CS2_bot_dmarket)** | `Python` `DMarket API` | 🟢 Activo |
+| **[mixer](https://github.com/Falopp/mixer)** | `Python` `BSC` `Async` | 🟡 Experimental |
 
 </td>
 <td width="50%" valign="top">
@@ -88,11 +88,11 @@ Creo firmemente en la **descentralización**, la **privacidad** y la **educació
 
 | Proyecto | Stack | Status |
 |----------|-------|--------|
-| **Crypto Screener Pro** | `React` `TypeScript` `FastAPI` | 🟢 Activo |
-| **Reddit Content Miner** | `Python` `AsyncIO` `Docker` | 🟢 Activo |
-| **P2P Data Intelligence** | `Python` `Polars` `Plotly` | 🟢 Activo |
-| **Blockchain Analytics** | `Python` `Web3.py` `PostgreSQL` | 🟡 Beta |
-| **Security Wallet Guide** | `Markdown` `GitHub Pages` | 🟢 Activo |
+| **[crypto_screener_dashboard](https://github.com/Falopp/crypto_screener_dashboard)** | `Python` `React` `FastAPI` | 🟢 Activo |
+| **[data_p2p](https://github.com/Falopp/data_p2p)** | `Python` `Polars` `Plotly` | 🟢 Activo |
+| **[reddit_content_downloader](https://github.com/Falopp/reddit_content_downloader)** | `Python` `AsyncIO` `Docker` | 🟢 Activo |
+| **[universal-weather-bot](https://github.com/Falopp/universal-weather-bot)** | `Python` `JavaScript` `Telegram` | 🟢 Activo |
+| **[guia-wallets-seguras](https://github.com/Falopp/guia-wallets-seguras)** | `Markdown` `Security Guide` | 🟢 Activo |
 
 </td>
 </tr>
@@ -100,42 +100,10 @@ Creo firmemente en la **descentralización**, la **privacidad** y la **educació
 
 <br>
 
-**🏆 Logros 2024:** AutoP2P Bot (10K+ trades) • Pro-Hedge ($50K+ profits) • Crypto Screener (1K+ users) • 3 contribuciones open-source
+**🏆 Logros 2024-2025:** 377 contribuciones • 14 repositorios públicos • Especialización en Python (93.5%) • Herramientas DeFi y P2P activas
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Trading & DeFi
-| Proyecto | Stack | Status |
-|----------|-------|--------|
-| **[AutoP2P Bot](https://github.com/Falopp/binance-p2p-bot)** | `Python` `FastAPI` `Playwright` | 🟢 Activo |
-| **Pro‑Hedge‑Trading** | `Python` `Streamlit` `Docker` | 🟢 Activo |
-| **P2P Profit Analyzer** | `Python` `Pandas` `Rich` | 🟢 Activo |
-| **CS2 DMarket Bot** | `Python` `SQLite` | 🟡 Mantenimiento |
-| **DeFi Yield Optimizer** | `Next.js` `TypeScript` | 🔵 Desarrollo |
-
-</td>
-<td width="50%" valign="top">
-
-### � APnalytics & Tools
-| Proyecto | Stack | Status |
-|----------|-------|--------|
-| **Crypto Screener Pro** | `React` `TypeScript` `FastAPI` | 🟢 Activo |
-| **Reddit Content Miner** | `Python` `AsyncIO` `Docker` | 🟢 Activo |
-| **P2P Data Intelligence** | `Python` `Polars` `Plotly` | 🟢 Activo |
-| **Blockchain Analytics** | `Python` `Web3.py` `PostgreSQL` | 🟡 Beta |
-| **Security Wallet Guide** | `Markdown` `GitHub Pages` | 🟢 Activo |
-
-</td>
-</tr>
-</table>
-
-**🏆 Logros 2024:** AutoP2P Bot (10K+ trades) • Pro-Hedge ($50K+ profits) • Crypto Screener (1K+ users) • 3 contribuciones open-source
-
----
-
-## 🛠️ Arsenal Tecnológico
+---## 🛠️
+ Arsenal Tecnológico
 
 <div align="center">
   <img src="https://img.shields.io/badge/Especialización-Full--Stack%20%2B%20Blockchain-purple?style=for-the-badge&logo=ethereum&logoColor=white" alt="Specialization"/>
