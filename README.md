@@ -101,17 +101,11 @@
 
 <!-- Contribution Graph -->
 <!-- Contribution Graph -->
+<!-- Contribution Graph -->
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph
-          ?username=Falopp
-          &count_private=true
-          &custom_title=Contribution%20Graph
-          &bg_color=0D1117&color=3DAEF7
-          &line=3DAEF7&point=FFFFFF
-          &area=true&hide_border=true"
-    width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Falopp&count_private=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DAEF7&line=3DAEF7&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </p>
+
 
 > **Nota:** El gráfico incluye mis *contribuciones privadas* gracias a un *PAT* que aloja la instancia en Vercel. Así se refleja TODO mi trabajo, público y privado, sin exponer repos confidenciales.
 
