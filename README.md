@@ -65,6 +65,43 @@ Creo firmemente en la **descentralización**, la **privacidad** y la **educació
   <img src="https://img.shields.io/badge/Contribuciones-500+-orange?style=for-the-badge&logo=git&logoColor=white" alt="Contributions"/>
 </div>
 
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Trading & DeFi
+
+| Proyecto | Stack | Status |
+|----------|-------|--------|
+| **[AutoP2P Bot](https://github.com/Falopp/binance-p2p-bot)** | `Python` `FastAPI` `Playwright` | 🟢 Activo |
+| **Pro‑Hedge‑Trading** | `Python` `Streamlit` `Docker` | 🟢 Activo |
+| **P2P Profit Analyzer** | `Python` `Pandas` `Rich` | 🟢 Activo |
+| **CS2 DMarket Bot** | `Python` `SQLite` | 🟡 Mantenimiento |
+| **DeFi Yield Optimizer** | `Next.js` `TypeScript` | 🔵 Desarrollo |
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Analytics & Tools
+
+| Proyecto | Stack | Status |
+|----------|-------|--------|
+| **Crypto Screener Pro** | `React` `TypeScript` `FastAPI` | 🟢 Activo |
+| **Reddit Content Miner** | `Python` `AsyncIO` `Docker` | 🟢 Activo |
+| **P2P Data Intelligence** | `Python` `Polars` `Plotly` | 🟢 Activo |
+| **Blockchain Analytics** | `Python` `Web3.py` `PostgreSQL` | 🟡 Beta |
+| **Security Wallet Guide** | `Markdown` `GitHub Pages` | 🟢 Activo |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**🏆 Logros 2024:** AutoP2P Bot (10K+ trades) • Pro-Hedge ($50K+ profits) • Crypto Screener (1K+ users) • 3 contribuciones open-source
+
 <table>
 <tr>
 <td width="50%" valign="top">
