@@ -15,13 +15,9 @@
 ---
 
 ## 🧑‍🚀 Sobre mí
-
-- 🔭 **Cofundador & CFO** de **Pentagoo** – pasarela de pagos cripto first‑class.
 - 🛠️ Desarrollo **bots de trading** (AutoP2P, Pro‑Hedge) y dashboards de análisis en tiempo real.
 - 🛡️ Fanático de la **ciberseguridad** y la auto‑custodia; uso Tails, GrapheneOS y hardware wallets daily.
-- 📚 Siempre aprendiendo: de **Solidity** a **AI‑powered Dev‑Tools**.
-- 🌎 Viajero serial (🇺🇾🇨🇱🇲🇽🇦🇷🇨🇴) y promotor de la adopción global de las criptomonedas.
-
+- 📚 Siempre aprendiendo: de **AI‑powered Dev‑Tools**.
 ---
 
 ## 🚀 Proyectos Destacados
@@ -117,16 +113,6 @@
 </p>
 
 > **Nota:** El gráfico incluye mis *contribuciones privadas* gracias a un *PAT* que aloja la instancia en Vercel. Así se refleja TODO mi trabajo, público y privado, sin exponer repos confidenciales.
-
----
-
-## 🤝 Conecta conmigo
-
-<p align="center">
-  <a href="https://twitter.com/ElliotOnChain"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/autop2p_support"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:federico@pentagoo.io"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
