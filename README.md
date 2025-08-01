@@ -15,17 +15,7 @@
   <img src="https://img.shields.io/badge/Focus-Web3%20%26%20DeFi-brightgreen?style=for-the-badge&logo=ethereum&logoColor=white" alt="Focus"/>
 </p>
 
-<p align="center">
-  <a href="mailto:federico@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/federico-falopp">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/falopp_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+
 
 </div>
 
@@ -35,25 +25,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Soy **Federico**, un desarrollador full-stack especializado en **blockchain** y **DeFi** con más de 3 años de experiencia construyendo soluciones innovadoras en el ecosistema cripto. Mi pasión se centra en crear herramientas que democraticen el acceso a las finanzas descentralizadas.
+Full-stack developer enfocado en **blockchain** y **DeFi**. Trabajo principalmente con Python, desarrollando herramientas de trading, análisis de datos y automatización.
 
-### 🎯 Lo que hago:
-- 🤖 **Trading Bots**: Desarrollo sistemas automatizados de trading (P2P, arbitraje, funding)
-- 🔗 **Blockchain Development**: Smart contracts, DApps y herramientas on-chain
-- 📊 **Data Analytics**: Dashboards en tiempo real y análisis de mercados cripto
-- 🛡️ **Cybersecurity**: Implementación de mejores prácticas de seguridad y auto-custodia
-- 🚀 **Full-Stack Development**: Desde APIs robustas hasta interfaces intuitivas
-
-### 🌟 Mi filosofía:
-> *"La tecnología debe empoderar a las personas, no complicar sus vidas"*
-
-Creo firmemente en la **descentralización**, la **privacidad** y la **educación financiera**. Por eso, todos mis proyectos buscan hacer más accesible el mundo cripto mientras mantienen los más altos estándares de seguridad.
-
-### 🔐 Seguridad primero:
-- 🐧 **Tails OS** para operaciones sensibles
-- 📱 **GrapheneOS** como sistema operativo móvil
-- 🔑 **Hardware wallets** para custodia de activos
-- 🛡️ **Auditorías de código** en todos mis proyectos
+### 🎯 Áreas de trabajo:
+- 🤖 **Trading Bots** y automatización
+- �  **Data Analytics** y visualización
+- � ***Herramientas CLI** y dashboards
+- 🛡️ **Seguridad** en criptomonedas
 
 ---
 
@@ -243,84 +221,9 @@ Creo firmemente en la **descentralización**, la **privacidad** y la **educació
 
 ---
 
-## 🤝 Colaboraciones & Contribuciones
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Mentoring-Available-blue?style=for-the-badge&logo=handshake&logoColor=white" alt="Mentoring"/>
-</div>
-
-### 🌟 Proyectos Open Source
-
-| 🎯 Proyecto | 🔗 Rol | 📝 Contribución | ⭐ Impact |
-|-------------|--------|-----------------|----------|
-| **[DeFi-Pulse-Adapter](https://github.com/DefiPulse/DeFi-Pulse-Adapters)** | Contributor | Adaptadores para protocolos DeFi | 500+ users |
-| **[Web3.py](https://github.com/ethereum/web3.py)** | Contributor | Bug fixes y documentación | 1000+ devs |
-| **[Uniswap-Python](https://github.com/uniswap-python/uniswap-python)** | Maintainer | Nuevas features y testing | 200+ forks |
-
-### 💡 Mentoring & Educación
-
-- 🎓 **Mentor** en [CryptoDevs Community](https://cryptodevs.org) - 50+ desarrolladores guiados
-- 📚 **Creador de contenido** técnico en Medium y Dev.to - 10K+ lectores
-- 🎤 **Speaker** en meetups locales de blockchain - 5+ charlas en 2024
-- 🤝 **Code reviewer** voluntario para proyectos DeFi emergentes
-
----
-
-## 📞 Conecta Conmigo
-
-<div align="center">
-
-### 🌐 Redes Sociales
-
-<a href="https://linkedin.com/in/federico-falopp">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/falopp_dev">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://medium.com/@falopp">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://dev.to/falopp">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
-
-### 💬 Canales de Comunicación
-
-<a href="mailto:federico@falopp.dev">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://t.me/falopp_dev">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://discord.gg/falopp">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-### 🎯 Disponible para:
-
-- 💼 **Consultoría** en proyectos DeFi y trading bots
-- 🤝 **Colaboraciones** en proyectos blockchain innovadores
-- 🎓 **Mentoring** para desarrolladores junior
-- 🎤 **Charlas técnicas** y workshops
-- 📝 **Code reviews** y auditorías de seguridad
-
-</div>
-
 ---
 
 <div align="center">
-
-### 💭 Filosofía de Desarrollo
-
-> *"El código no solo debe funcionar, debe ser elegante, seguro y accesible para todos"*
-
-### 🚀 Misión
-
-**Democratizar el acceso a las herramientas financieras descentralizadas a través de tecnología innovadora y educación de calidad.**
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=110&section=footer)
 
