@@ -100,16 +100,16 @@
 ## 📈 Métricas
 
 <!-- Contribution Graph -->
+<!-- Contribution Graph -->
 <p align="center">
   <img
-    src="https://falopp-activity.vercel.app/graph
-         ?username=Falopp
-         &count_private=true          # se ignora si no usas tu backend
-         &custom_title=Contribution%20Graph
-         &bg_color=0D1117&color=3DAEF7
-         &line=3DAEF7&point=FFFFFF
-         &area=true&area_color=3daef7
-         &hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph
+          ?username=Falopp
+          &count_private=true
+          &custom_title=Contribution%20Graph
+          &bg_color=0D1117&color=3DAEF7
+          &line=3DAEF7&point=FFFFFF
+          &area=true&hide_border=true"
     width="95%" />
 </p>
 
