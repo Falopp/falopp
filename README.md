@@ -99,17 +99,18 @@
 
 ## 📈 Métricas
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Falopp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3DAEF7&icon_color=3DAEF7&text_color=FFFFFF" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Falopp&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=15&background=0D1117&stroke=3DAEF7&ring=3DAEF7&fire=FF6B6B&currStreakLabel=3DAEF7" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falopp&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3DAEF7&text_color=FFFFFF" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Falopp&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DAEF7&line=3DAEF7&point=FFFFFF&area=true&hide_border=true" width="95%" />
+  <img
+    src="https://falopp-activity.vercel.app/graph
+         ?username=Falopp
+         &count_private=true          # se ignora si no usas tu backend
+         &custom_title=Contribution%20Graph
+         &bg_color=0D1117&color=3DAEF7
+         &line=3DAEF7&point=FFFFFF
+         &area=true&area_color=3daef7
+         &hide_border=true"
+    width="95%" />
 </p>
 
 > **Nota:** El gráfico incluye mis *contribuciones privadas* gracias a un *PAT* que aloja la instancia en Vercel. Así se refleja TODO mi trabajo, público y privado, sin exponer repos confidenciales.
