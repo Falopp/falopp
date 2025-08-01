@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/Focus-Web3%20%26%20DeFi-brightgreen?style=for-the-badge&logo=ethereum&logoColor=white" alt="Focus"/>
 </p>
 
-
-
 </div>
 
 ---
@@ -29,8 +27,8 @@ Full-stack developer enfocado en **blockchain** y **DeFi**. Trabajo principalmen
 
 ### 🎯 Áreas de trabajo:
 - 🤖 **Trading Bots** y automatización
-- �  **Data Analytics** y visualización
-- � ***Herramientas CLI** y dashboards
+- 📊 **Data Analytics** y visualización
+- 🔧 **Herramientas CLI** y dashboards
 - 🛡️ **Seguridad** en criptomonedas
 
 ---
@@ -79,6 +77,8 @@ Full-stack developer enfocado en **blockchain** y **DeFi**. Trabajo principalmen
 <br>
 
 **🏆 Logros 2024-2025:** 377 contribuciones • 14 repositorios públicos • Especialización en Python (93.5%) • Herramientas DeFi y P2P activas
+
+---
 
 ## 🛠️ Arsenal Tecnológico
 
@@ -217,8 +217,6 @@ Full-stack developer enfocado en **blockchain** y **DeFi**. Trabajo principalmen
 </p>
 
 > **Nota:** El gráfico incluye mis *contribuciones privadas* gracias a un *PAT* que aloja la instancia en Vercel. Así se refleja TODO mi trabajo, público y privado, sin exponer repos confidenciales.
-
----
 
 ---
 
