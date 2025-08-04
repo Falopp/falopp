@@ -361,7 +361,7 @@
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Falopp&count_private=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DAEF7&line=3DAEF7&point=FFFFFF&area=true&hide_border=true&border_radius=10&v=init" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Falopp&count_private=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DAEF7&line=3DAEF7&point=FFFFFF&area=true&hide_border=true&border_radius=10\11754347504" width="98%" />
 
 </div>
 
