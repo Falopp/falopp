@@ -1,0 +1,18 @@
+name: Refresh graph hourly
+on:
+  schedule: [{ cron: "0 * * * *" }]   # cada hora (UTC)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bump v= param
+        run: |
+          ts=$(date -u +%s)
+          sed -E -i 's#(activity-graph\.vercel\.app/graph[^"'"'"']*)([)"'"'"'])#\1&v='"$ts"'\2#' README.md
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Refresh activity graph cache"
