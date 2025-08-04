@@ -4,15 +4,46 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Bump v= param
+
+      - name: Find README file
+        id: find_readme
+        shell: bash
         run: |
+          set -e
+          # Busca README en raíz o en /profile (cubre README.md, README.MD, readme.md)
+          readme="$(git ls-files | grep -i -E '^(readme(\.md)?|profile/readme(\.md)?)$' | head -n1 || true)"
+          if [ -z "$readme" ]; then
+            echo "No se encontró README. Archivos en repo:"
+            ls -la
+            exit 1
+          fi
+          echo "README detectado: $readme"
+          echo "path=$readme" >> "$GITHUB_OUTPUT"
+
+      - name: Bump v= param (safe)
+        shell: bash
+        run: |
+          set -e
+          file="${{ steps.find_readme.outputs.path }}"
           ts=$(date -u +%s)
-          sed -E -i 's#(activity-graph\.vercel\.app/graph[^"'"'"']*)([)"'"'"'])#\1&v='"$ts"'\2#' README.md
+          # Reemplaza v= si existe, o lo agrega al final de la URL del graph
+          awk -v ts="$ts" '
+            /github-readme-activity-graph\.vercel\.app\/graph/ {
+              if ($0 ~ /[?&]v=[^"& )]+/) {
+                gsub(/([?&]v=)[^"& )]+/, "\\1" ts)
+              } else {
+                gsub(/(github-readme-activity-graph\.vercel\.app\/graph[^"& )]*)/, "&" "&v=" ts)
+              }
+            }
+            { print }
+          ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Refresh activity graph cache"
