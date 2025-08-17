@@ -1,6 +1,6 @@
 name: Refresh graph hourly
 on:
-  schedule: [{ cron: "0 * * * *" }]   # cada hora (UTC)
+  schedule: [{ cron: "0 * * * *" }] # cada hora (UTC)
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,39 +11,54 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Find README file
-        id: find_readme
+      - name: Determine README path
+        id: readme
         shell: bash
         run: |
-          set -e
-          # Busca README en raíz o en /profile (cubre README.md, README.MD, readme.md)
-          readme="$(git ls-files | grep -i -E '^(readme(\.md)?|profile/readme(\.md)?)$' | head -n1 || true)"
-          if [ -z "$readme" ]; then
-            echo "No se encontró README. Archivos en repo:"
-            ls -la
-            exit 1
+          set -euo pipefail
+          file=""
+          for cand in README.md README.MD Readme.md; do
+            if [[ -f "$cand" ]]; then file="$cand"; break; fi
+          done
+          if [[ -z "$file" ]]; then
+            echo "README no encontrado"; exit 1
           fi
-          echo "README detectado: $readme"
-          echo "path=$readme" >> "$GITHUB_OUTPUT"
+          echo "file=$file" >> "$GITHUB_OUTPUT"
 
-      - name: Bump v= param (safe)
+      - name: Bump cache-busting param safely
         shell: bash
+        env:
+          FILE: ${{ steps.readme.outputs.file }}
         run: |
-          set -e
-          file="${{ steps.find_readme.outputs.path }}"
-          ts=$(date -u +%s)
-          # Reemplaza v= si existe, o lo agrega al final de la URL del graph
+          set -euo pipefail
+          ts=$(date +%s)
+          tmp="${FILE}.tmp"
+
+          # Solo tocar líneas con el activity graph
           awk -v ts="$ts" '
             /github-readme-activity-graph\.vercel\.app\/graph/ {
               if ($0 ~ /[?&]v=[^"& )]+/) {
                 gsub(/([?&]v=)[^"& )]+/, "\\1" ts)
               } else {
-                gsub(/(github-readme-activity-graph\.vercel\.app\/graph[^"& )]*)/, "&" "&v=" ts)
+                sub(/(github-readme-activity-graph\.vercel\.app\/graph[^\"& )]*)/, "&?v=" ts)
               }
             }
             { print }
-          ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+          ' "$FILE" > "$tmp"
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+          mv "$tmp" "$FILE"
+
+          # Guardarraíl: si se fue de tamaño, revertir y no commitear
+          size=$(wc -c < "$FILE")
+          if (( size > 1000000 )); then
+            echo "README creció a $size bytes; abortando para evitar >100MB"
+            git checkout -- "$FILE"
+            # salir con éxito para no romper el workflow, pero sin commit
+            exit 0
+          fi
+
+      - name: Commit only README
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Refresh activity graph cache"
+          file_pattern: ${{ steps.readme.outputs.file }}
