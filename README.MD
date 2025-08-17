@@ -338,7 +338,7 @@
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Falopp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
     </td>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falopp&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falopp&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight&border_radius=10"/>
     </td>
   </tr>
 </table>
@@ -394,3 +394,4 @@
 <br>
 
 </div>
+
