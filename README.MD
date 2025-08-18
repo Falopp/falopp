@@ -361,7 +361,7 @@
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Falopp\11755402580\11755407451\11755414565\11755421760\11755428844\11755436838\11755443326\11755450467\11755457646\11755464906\11755472157?v=1755478460&count_private=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DAEF7&line=3DAEF7&point=FFFFFF&area=true&hide_border=true&border_radius=10\11755392063" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Falopp\11755402580\11755407451\11755414565\11755421760\11755428844\11755436838\11755443326\11755450467\11755457646\11755464906\11755472157\11755485555&count_private=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DAEF7&line=3DAEF7&point=FFFFFF&area=true&hide_border=true&border_radius=10\11755392063" width="98%" />
 
 </div>
 
